@@ -1,0 +1,1 @@
+<?php echo '<center><h3> BUS CAMBIADO ACTUALICE LA PAGINA </h3></center>'; ?>
